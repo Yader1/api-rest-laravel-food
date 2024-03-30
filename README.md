@@ -22,5 +22,7 @@ To configure this project in your local service follow the following steps:
 ![Login](doc/pn1.png) 
 -----------------------------------
 
-![Index](doc/pn1.png)
------------------------------------
+![Index](doc/pn2.png) | ![Index](doc/pn3.png)
+-----------------------------------|-----------------------------------
+![Index](doc/pn4.png) | ![Index](doc/pn5.png)
+-----------------------------------|-----------------------------------
